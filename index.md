@@ -12,6 +12,6 @@ I am a student of Computer Science and I find algorithms facinating. I like prob
 
 I hope you enjoy the world of algorithms I am about to show you!
 
-Problems solved as a list:
+## Problems solved
 
 [What Is An Algorithm?](./what_is_an_algorithm.md)
