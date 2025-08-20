@@ -6,4 +6,4 @@ Welcome to my blog! Here I will be showcasing my talents on algorithms. I will b
 
 Feel free to enjoy the problems and the solutions!
 
-Here you can find an introduction: [Link to introduction](./introduction.html).
+Here you can find an introduction: [Link to introduction](/introduction.html).
